@@ -5,27 +5,34 @@
 - More and more people are connecting to the internet and we have no idea how this is going to affect kids/families moving forward.  This has never happened before. 
 
 - Worldwide Statistics on Internet Usage:
-   [Internate Usage Statistics](https://datareportal.com/reports/digital-2023-global-overview-report)
-         Average time online per 24 hour day is 6.4 hours.  That means people are spending over 1/3 of their day online.  Some people are online more than they sleep!!!!
+  Average time online per 24 hour day is 6.4 hours.  That means people are spending over 1/3 of their day online.  Some people are online more than they sleep!!!!
+ 
+  [Internate Usage Statistics](https://datareportal.com/reports/digital-2023-global-overview-report)
 
 ##   B. Online activity is very dangerous:
-            Hackers
-            lies
-            pornography
-            self-deception
-            cults
-            idle waste of time are just some of the dangers.  
+   - Hackers
+   - lies
+   - pornography
+   - self-deception
+   - cults
+   - idle waste of time are just some of the dangers.  
 
-          It can really suck your life away.          
-            - China has mandated that children can not play more than 1 hour of online games a day, and even then only on Fridays, Saturdays, and Sundays. 
-              [China Limits Kids and Gaming](https://apnews.com/article/gaming-business-children-00db669defcc8e0ca1fc2dc54120a0b8)
+It can really suck your life away.          
+- China has mandated that children can not play more than 1 hour of online games a day, and even then only on Fridays, Saturdays, and Sundays. 
+  [China Limits Kids and Gaming](https://apnews.com/article/gaming-business-children-00db669defcc8e0ca1fc2dc54120a0b8)
 
-          Teen Mental Health is Collapsing! 
-            - [ Teen Mental Health Epidemic ](https://jonathanhaidt.com/kids-in-space/)
+- Teen Mental Health is Collapsing! 
+  [ Teen Mental Health Epidemic ](https://jonathanhaidt.com/kids-in-space/)
 
-          10 Things To Know about Social Media and Teen Mental Health:
-            - [ Social Media and Kids Brains ](https://www.npr.org/2023/02/16/1157180971/10-things-to-know-about-how-social-media-affects-teens-brains)
+- 10 Things To Know about Social Media and Teen Mental Health:
+  [ Social Media and Kids Brains ](https://www.npr.org/2023/02/16/1157180971/10-things-to-know-about-how-social-media-affects-teens-brains)
 
+
+## C. We are Going to Talk about
+### 1. Kids and Social Media 
+### 2. Keeping Adults Devices In Check
+### 3. Managing your Childrens Devices 
+   
 ---
 
 # Kids and Social Media
