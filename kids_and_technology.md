@@ -18,7 +18,7 @@
 
           It can really suck your life away.          
             - China has mandated that children can not play more than 1 hour of online games a day, and even then only on Fridays, Saturdays, and Sundays. 
-              [ China Limits Kids and Gaming ](https://apnews.com/article/gaming-business-children-00db669defcc8e0ca1fc2dc54120a0b8)
+              [China Limits Kids and Gaming](https://apnews.com/article/gaming-business-children-00db669defcc8e0ca1fc2dc54120a0b8)
 
           Teen Mental Health is Collapsing! 
             - [ Teen Mental Health Epidemic ](https://jonathanhaidt.com/kids-in-space/)
@@ -28,8 +28,8 @@
 
 ---
 
-1. Kids and Social Media
-    a. What is Social Media?
+# Kids and Social Media
+    1. What is Social Media?
         Social media facilitates the sharing of ideas and information through virtual networks.
 
         Likes, Shares, re-tweets, comments, and other interactions with media are all considered social media.
@@ -49,9 +49,9 @@
             - Telegram
             - WeChat
 
-            And there are many more, with even more added everyday.   
+        And there are many more, with even more added everyday.   
 
-    b. Who should use Social Media?
+    2. Who should use Social Media?
         Perhaps no one?  Social Media is the new pornography.  It is addictive, descriptive, and can be dangerous. It is not appropriate for children. 
 
         It lowers inhibitions.  Social Media in 2021 spent nearly 50 Billion dollars on research and development. 
