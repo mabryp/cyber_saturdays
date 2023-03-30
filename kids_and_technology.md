@@ -28,7 +28,7 @@ It can really suck your life away.
   [ Social Media and Kids Brains ](https://www.npr.org/2023/02/16/1157180971/10-things-to-know-about-how-social-media-affects-teens-brains)
 
 
-## C. We are Going to Talk about
+## C. We are Going to Talk about  
 ### 1. Kids and Social Media 
 ### 2. Keeping Adults Devices In Check
 ### 3. Managing your Childrens Devices 
