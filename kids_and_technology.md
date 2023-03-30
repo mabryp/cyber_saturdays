@@ -2,10 +2,10 @@
 # Introduction:
 ##   A. People are spending more and more time online.  
          
-         More and more people are connecting to the internet and we have no idea how this is going to affect kids/families moving forward.  This has never happened before. 
+- More and more people are connecting to the internet and we have no idea how this is going to affect kids/families moving forward.  This has never happened before. 
 
-         Worldwide Statistics on Internet Usage:
-               https://datareportal.com/reports/digital-2023-global-overview-report
+- Worldwide Statistics on Internet Usage:
+   [Internate Usage Statistics](https://datareportal.com/reports/digital-2023-global-overview-report)
          Average time online per 24 hour day is 6.4 hours.  That means people are spending over 1/3 of their day online.  Some people are online more than they sleep!!!!
 
 ##   B. Online activity is very dangerous:
