@@ -1,2 +1,2 @@
 # cyber_saturdays
-Artifacts needed for Cyber Saturday Events
+[April 1 Cyber Saturday](kids_and_technology.md)
