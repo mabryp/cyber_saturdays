@@ -116,6 +116,11 @@ It's the dopamine hit that makes you want to keep coming back for more.  Social 
 
 [Social Media is causing depression among teen girls](https://jonathanhaidt.substack.com/p/social-media-mental-illness-epidemic)
 
+The science and research is absolutely clear that Social Media can make your children feel terrible.  
+
+I think the day is coming when children using social media will be thought of as barbaric. 
+The same way we now think that children shouldnt' have alchol.  
+
 ##    4. How can you protect your children from the risks of Social Media?
    
    Go as long as possible without any Social Media.  
@@ -255,3 +260,16 @@ Social Media, even when used correctly, is very dangerous.  It should be treated
 ### Apple Parental Controls QR Code
 
 ![QR Code for Parental Controls](/qr_codes/apple_parental_controls_qr.png)
+
+
+## Premium Software
+- [Qustodio](https://www.qustodio.com/)  
+  A parental control app that manages all types of devices (Apple, Android, Windows, MacOS, even Kindle ).
+  It's about $100.00 per year to manage ten devices.  
+  You have full control and can monitor your childrens texts, messages, and phone calls. 
+  
+- [OurPact](https://ourpact.com/)  
+  Similar to others this manages all aspects of your device.  
+  It is abouty 10.00 per month per device
+  It only available for Android and AppleIOS
+  
