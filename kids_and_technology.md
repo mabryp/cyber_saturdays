@@ -177,17 +177,17 @@ Social Media, even when used correctly, is very dangerous.  It should be treated
        
 #     - Bitdefender
    
-   [BitDefender QR Code](/qr_codes/bitdefender_qr.png)
+   ![BitDefender QR Code](/qr_codes/bitdefender_qr.png)
 
 
 #    - Norton
 
-   [Norton QR Code](/qr_codes/norton_mobile_security_qr.png)
+   ![Norton QR Code](/qr_codes/norton_mobile_security_qr.png)
   
   
 #   - McAfee  
 
-   [McAfee QR Code](/qr_codes/mcafee_mobile_security_qr.png)
+   ![McAfee QR Code](/qr_codes/mcafee_mobile_security_qr.png)
    
    
 ---
