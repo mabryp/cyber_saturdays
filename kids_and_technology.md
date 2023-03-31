@@ -10,7 +10,8 @@
    [Internate Usage Statistics](https://datareportal.com/reports/digital-2023-global-overview-report)
 
 ##   B. Online activity is very dangerous:
-   - Hackers
+   - hackers
+   - identity theft
    - lies
    - pornography
    - self-deception
@@ -123,51 +124,51 @@ Social Media, even when used correctly, is very dangerous.  It should be treated
 
 
 
-Monitoring Your own Devices 
-1. Biggest Threats
+# Monitoring Your own Devices 
+## 1. Biggest Threats
 
-    Installing Malware is the largest threat.  
-    Capture your password, email address, or other things. 
+   Installing Malware is the largest threat.  
+   Capture your password, email address, or other things. 
 
-    1. Open WiFi
-        - Attackers will set up open WiFi Access Points inticing people to connect.  When a person connects they will be able to see all of the traffic on that network.  This includes passwords, credit card numbers, and other sensitive information. 
-    1.  Games
-        - Attackers will set up games and apps on Play stores and App stores that look like they are from a legitimate company.  When you download and install the app, it will install a virus on your device.  The virus will then send all of your information to the attacker.  Even if you uninstall the app the damage may be done.  Removing the app may not remove the threat. 
-    1. Phishing / Link / Attachment
-       - Attackers will send you emails that look like they are from a legitimate company.  They will ask you to click on a link or open an attachment.  When you do this, the link or attachment will install a virus on your device.  The virus will then send all of your information to the attacker.  
+   1. Open WiFi
+      - Attackers will set up open WiFi Access Points inticing people to connect.  When a person connects they will be able to see all of the traffic on that network.  This includes passwords, credit card numbers, and other sensitive information. 
+   1.  Games
+      - Attackers will set up games and apps on Play stores and App stores that look like they are from a legitimate company.  When you download and install the app, it will install a virus on your device.  The virus will then send all of your information to the attacker.  Even if you uninstall the app the damage may be done.  Removing the app may not remove the threat. 
+   1. Phishing / Link / Attachment
+      - Attackers will send you emails that look like they are from a legitimate company.  They will ask you to click on a link or open an attachment.  When you do this, the link or attachment will install a virus on your device.  The virus will then send all of your information to the attacker.  
 
 
 
-2. Anti-virus / Anti-malware
-    1. What is a virus?
-        - A virus is a program that can replicate itself and spread from one computer to another.  It can also be used to corrupt data on a computer.  Viruses are usually spread by email attachments, infected files, or infected websites.
+## 2. Anti-virus / Anti-malware
+   1. What is a virus?
+       - A virus is a program that can replicate itself and spread from one computer to another.  It can also be used to corrupt data on a computer.  Viruses are usually spread by email attachments, infected files, or infected websites.
     1. What is Malware?
-        - Malware is a program that is designed to damage or disable a computer.  It can also be used to steal information from a computer.  Malware is usually spread by email attachments, infected files, or infected websites.
+       - Malware is a program that is designed to damage or disable a computer.  It can also be used to steal information from a computer.  Malware is usually spread by email attachments, infected files, or infected websites.
     1. What is a Trojan Horse?
-        - A Trojan Horse is a program that is designed to look like a legitimate program.  It can be used to steal information from a computer.  Trojan Horses are usually spread by email attachments, infected files, or infected websites.
+       - A Trojan Horse is a program that is designed to look like a legitimate program.  It can be used to steal information from a computer.  Trojan Horses are usually spread by email attachments, infected files, or infected websites.
 
 
-3. Have you been hacked?
-    1. Identity Theft more than once in two years?
-    2. People recieving texts, calls, or messages from your phone.
-    3. People recieving social media messages, emails, or requests from your accounts.
-    4. Phone battery is not lasting as long as it used to.
+## 3. Have you been hacked?
+   1. Identity Theft more than once in two years?
+   2. People recieving texts, calls, or messages from your phone.
+   3. People recieving social media messages, emails, or requests from your accounts.
+   4. Phone battery is not lasting as long as it used to.
 
-4. Software To Help
-    1. Apple Iphones
-       - Apple Iphones are designed differently than Android and are less likely to have malware.  But, they can abosolutely have malware.  There are several anti-malware apps available for Apple.  
+## 4. Software To Help
+   1. Apple Iphones
+      - Apple Iphones are designed differently than Android and are less likely to have malware.  But, they can abosolutely have malware.  There are several anti-malware apps available for Apple.  
        
-    2. Android
-       - Because of how Andoid is built it is a bigger target for malware.  But, it is easy to defend against with some basic rules.  
+   2. Android
+      - Because of how Andoid is built it is a bigger target for malware.  But, it is easy to defend against with some basic rules.  
        
-    3. Both devies have access to similar software for about $15 per device per year.
+   3. Both devies have access to similar software for about $15 per device per year.
        
-       - Bitdefender
-       - Norton
-       - McAfee  
+      - Bitdefender
+      - Norton
+      - McAfee  
        
 
-Introduction to Monitoring Your Childs Devices
+# Introduction to Monitoring Your Childs Devices
 
 1. Monitoring Your Childrens Devices and Online Activity
     Both Apple and Android require your child have a children's account.  
@@ -192,8 +193,7 @@ Introduction to Monitoring Your Childs Devices
         - Can be found in the Google Play Store:
               https://families.google/familylink/
 
-        Documentation:
-        - https://support.google.com/families/answer/7101025?hl=en
+      [Google Family Link Documentation](https://support.google.com/families/answer/7101025?hl=en)
 
 
 
@@ -211,8 +211,5 @@ Introduction to Monitoring Your Childs Devices
         - Monitor which websites are being visited and for how long
         - Device can be locked, remotely, from the parents phone
             - The device will not be able to be unlocked until the parents unlock it.
-        - Can be found in the App Store:
-              https://support.apple.com/en-us/HT201304
-
-        Documentation:
-        - https://support.apple.com/en-us/HT201304
+            
+        [Parental Controls Documentation](https://support.apple.com/en-us/HT201304)
