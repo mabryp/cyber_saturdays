@@ -174,18 +174,21 @@ Social Media, even when used correctly, is very dangerous.  It should be treated
       - Because of how Andoid is built it is a bigger target for malware.  But, it is easy to defend against with some basic rules.  
        
    3. Both devies have access to similar software for about $15 per device per year.
+      Any of these softwares will help you and they can all do the job.  The biggest difference between them for most people is personal preference.  You can try them all for free and decide which makes most sense to you!  
+      
+      I use Bitdefender for my Android device.
        
-#     - Bitdefender
+##     - Bitdefender
    
    ![BitDefender QR Code](/qr_codes/bitdefender_qr.png)
 
 
-#    - Norton
+##    - Norton
 
    ![Norton QR Code](/qr_codes/norton_mobile_security_qr.png)
   
   
-#   - McAfee  
+##   - McAfee  
 
    ![McAfee QR Code](/qr_codes/mcafee_mobile_security_qr.png)
    
