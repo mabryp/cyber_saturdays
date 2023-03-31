@@ -6,6 +6,7 @@
 
   - Worldwide Statistics on Internet Usage:
      Average time online per 24 hour day is 6.4 hours.  That means people are spending over 1/3 of their day online.  Some people are online more than they sleep!!!!
+
    [Internate Usage Statistics](https://datareportal.com/reports/digital-2023-global-overview-report)
 
 ##   B. Online activity is very dangerous:
@@ -18,12 +19,15 @@
 
 It can really suck your life away.          
 - China has mandated that children can not play more than 1 hour of online games a day, and even then only on Fridays, Saturdays, and Sundays. 
+
   [China Limits Kids and Gaming](https://apnews.com/article/gaming-business-children-00db669defcc8e0ca1fc2dc54120a0b8)
 
 - Teen Mental Health is Collapsing! 
+
   [ Teen Mental Health Epidemic ](https://jonathanhaidt.com/kids-in-space/)
 
 - 10 Things To Know about Social Media and Teen Mental Health:
+
   [ Social Media and Kids Brains ](https://www.npr.org/2023/02/16/1157180971/10-things-to-know-about-how-social-media-affects-teens-brains)
 
 
@@ -41,19 +45,20 @@ Social media facilitates the sharing of ideas and information through virtual ne
 Likes, Shares, re-tweets, comments, and other interactions with media are all considered social media.
 
 Anything where a user can interact with other users is considered social media.  This includes:
-    - Facebook
-    - Twitter
-    - Instagram
-    - Snapchat
-    - Pinterest
-    - Reddit
-    - Tumblr
-    - LinkedIn
-    - YouTube
-    - WhatsApp
-    - TikTok
-    - Telegram
-    - WeChat
+
+   - Facebook
+   - Twitter
+   - Instagram
+   - Snapchat
+   - Pinterest
+   - Reddit
+   - Tumblr
+   - LinkedIn
+   - YouTube
+   - WhatsApp
+   - TikTok
+   - Telegram
+   - WeChat
 
 ###    And there are many more, with even more added everyday.   
 
