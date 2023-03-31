@@ -67,21 +67,29 @@ Anything where a user can interact with other users is considered social media. 
 
    Kids are using social media more than ever.  
 
->Common Se3nse Media found that overall screen use among teens and tweens increased by 17 percent from 2019 to 2021 — growing more rapidly than in the four years prior. On average, daily screen use went up among tweens (ages 8 to 12) to five hours and 33 minutes from four hours and 44 minutes, and to eight hours and 39 minutes from seven hours and 22 minutes for teens (ages 13 to 18). [New York Times Kids and Social Media](https://www.nytimes.com/2022/03/24/well/family/child-social-media-use.html))
+>Common Se3nse Media found that overall screen use among teens and tweens increased by 17 percent from 2019 to 2021 — growing more rapidly than in the four years prior. On average, daily screen use went up among tweens (ages 8 to 12) to five hours and 33 minutes from four hours and 44 minutes, and to eight hours and 39 minutes from seven hours and 22 minutes for teens (ages 13 to 18). 
+
+[New York Times Kids and Social Media](https://www.nytimes.com/2022/03/24/well/family/child-social-media-use.html))
 
 
 
    According to the Worldwide Statitistics on Internet usage above, 94% of the over 5 billion people online access the internet for Social Media. 
 
    Adults over 35 who use apps like TikTok and SnapChat were found to be more likely to have mental health issues.  This is because they are more likely to be addicted to Social Media.  They are more likely to be depressed, anxious, and lonely.  
+   
    [Creates Mental Health Problems in Adults Too](https://www.nbcnews.com/health/health-news/social-media-use-linked-depression-adults-rcna6445)
 
 
         
 ##    3. What are the risks of Social Media? 
-Feelings of helplessness, hopelessness, dispair, and isolation.  
+Feelings of:
+- **helplessness**
+- **hopelessness**
+- **dispair**
+- **isolation**
+- **preditors**
 
- Social media does NOT make people feel more connected, it makes people more lonely.
+ Social media does **NOT** make people feel more connected, it makes people more lonely.
 
 > "Growing research finds that the more time spent on social media, the more likely a person will experience mental health symptoms like anxiety, isolation, and hopelessness. And according to one recent study, high levels of social media use over the span of four years was associated with increased depression among middle and high school youths." - Columbia University
 
@@ -103,29 +111,61 @@ It's the dopamine hit that makes you want to keep coming back for more.  Social 
    
    Go as long as possible without any Social Media.  
 
-       Once they are on Social Media, limit their time and monitor their activity ( we will talk about HOW to do this in a bit ). 
-       Digital Detox!  
-           Daily and Weekly Digital Detox!
+   Once they are on Social Media, limit their time and monitor their activity ( we will talk about HOW to do this in a bit ). 
+###   Digital Detox!
+###   Daily and Weekly Digital Detox!
 
-       All of the research provided shows that children need time with eachother without devices.  The more time they engage with one another in real life, the better they are at handling the difficulties of online activities.  
+   All of the research provided shows that children **need** time with eachother without devices.  The more time they engage with one another in real life, the better they are at handling the difficulties of online activities.  
+
+## Conclusion
+Social Media, even when used correctly, is very dangerous.  It should be treated like alcohol.  It should be very limited and used knowing it can easily hurt us and our kids.  
+
+
 
 
 Monitoring Your own Devices 
 1. Biggest Threats
-    A. Open WiFi
+
+    Installing Malware is the largest threat.  
+    Capture your password, email address, or other things. 
+
+    1. Open WiFi
         - Attackers will set up open WiFi Access Points inticing people to connect.  When a person connects they will be able to see all of the traffic on that network.  This includes passwords, credit card numbers, and other sensitive information. 
-    B. Sketchy Games
+    1.  Games
         - Attackers will set up games and apps on Play stores and App stores that look like they are from a legitimate company.  When you download and install the app, it will install a virus on your device.  The virus will then send all of your information to the attacker.  Even if you uninstall the app the damage may be done.  Removing the app may not remove the threat. 
-    C. Phishing / Link / Attachment
+    1. Phishing / Link / Attachment
        - Attackers will send you emails that look like they are from a legitimate company.  They will ask you to click on a link or open an attachment.  When you do this, the link or attachment will install a virus on your device.  The virus will then send all of your information to the attacker.  
+
+
+
 2. Anti-virus / Anti-malware
-    A. What is a virus?
+    1. What is a virus?
         - A virus is a program that can replicate itself and spread from one computer to another.  It can also be used to corrupt data on a computer.  Viruses are usually spread by email attachments, infected files, or infected websites.
-    B. What is Malware?
+    1. What is Malware?
         - Malware is a program that is designed to damage or disable a computer.  It can also be used to steal information from a computer.  Malware is usually spread by email attachments, infected files, or infected websites.
-    C. What is a Trojan Horse?
+    1. What is a Trojan Horse?
         - A Trojan Horse is a program that is designed to look like a legitimate program.  It can be used to steal information from a computer.  Trojan Horses are usually spread by email attachments, infected files, or infected websites.
 
+
+3. Have you been hacked?
+    1. Identity Theft more than once in two years?
+    2. People recieving texts, calls, or messages from your phone.
+    3. People recieving social media messages, emails, or requests from your accounts.
+    4. Phone battery is not lasting as long as it used to.
+
+4. Software To Help
+    1. Apple Iphones
+       - Apple Iphones are designed differently than Android and are less likely to have malware.  But, they can abosolutely have malware.  There are several anti-malware apps available for Apple.  
+       
+    2. Android
+       - Because of how Andoid is built it is a bigger target for malware.  But, it is easy to defend against with some basic rules.  
+       
+    3. Both devies have access to similar software for about $15 per device per year.
+       
+       - Bitdefender
+       - Norton
+       - McAfee  
+       
 
 Introduction to Monitoring Your Childs Devices
 
