@@ -39,8 +39,16 @@ It can really suck your life away.
    
 ---
 
+
+Ready?  Let's begin. 
+
+
+---
 # Kids and Social Media
 ##    1. What is Social Media?
+
+### The New Battle Ground!   
+
 Social media facilitates the sharing of ideas and information through virtual networks.
 
 Likes, Shares, re-tweets, comments, and other interactions with media are all considered social media.
@@ -193,6 +201,7 @@ Social Media, even when used correctly, is very dangerous.  It should be treated
     - Can be found in the [Google Play Store](https://families.google/familylink/)
 
       [Google Family Link Documentation](https://support.google.com/families/answer/7101025?hl=en)
+      ![QR Code for Google Family Link](/qr_codes/family_link_qr.png)
 
 
 
@@ -213,3 +222,4 @@ Social Media, even when used correctly, is very dangerous.  It should be treated
          - The device will not be able to be unlocked until the parents unlock it.
             
     [Parental Controls Documentation](https://support.apple.com/en-us/HT201304)
+    ![QR Code for Parental Controls](/qr_codes/apple_parental_controls_qr.png)
