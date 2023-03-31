@@ -66,7 +66,8 @@ Anything where a user can interact with other users is considered social media. 
    Perhaps no one?  Social Media is the new pornography.  It is addictive, descriptive, and can be dangerous. It is not appropriate for children. 
 
    It lowers inhibitions.  Social Media in 2021 spent nearly 50 Billion dollars on research and development. 
-   [Research and Development in Social Media](https://www.statista.com/statistics/270854/research-and-development-expenditure-of-leading-internet-companies/#:~:text=Meta%20Platforms%20(formerly%20Facebook%20Inc,billion%20U.S.%20dollars%20for%202021)
+
+[Research and Development in Social Media](https://www.statista.com/statistics/270854/research-and-development-expenditure-of-leading-internet-companies/#:~:text=Meta%20Platforms%20(formerly%20Facebook%20Inc,billion%20U.S.%20dollars%20for%202021)
 
    According to the Worldwide Statitistics on Internet usage above, 94% of the over 5 billion people online access the internet for Social Media. 
 
