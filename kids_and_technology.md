@@ -65,9 +65,11 @@ Anything where a user can interact with other users is considered social media. 
 ##    2. Who should use Social Media?  
    Perhaps no one?  Social Media is the new pornography.  It is addictive, descriptive, and can be dangerous. It is not appropriate for children. 
 
-   It lowers inhibitions.  Social Media in 2021 spent nearly 50 Billion dollars on research and development. 
+   Kids are using social media more than ever.  
 
-[Research and Development in Social Media](https://www.statista.com/statistics/270854/research-and-development-expenditure-of-leading-internet-companies/#:~:text=Meta%20Platforms%20(formerly%20Facebook%20Inc,billion%20U.S.%20dollars%20for%202021)
+>Common Se3nse Media found that overall screen use among teens and tweens increased by 17 percent from 2019 to 2021 — growing more rapidly than in the four years prior. On average, daily screen use went up among tweens (ages 8 to 12) to five hours and 33 minutes from four hours and 44 minutes, and to eight hours and 39 minutes from seven hours and 22 minutes for teens (ages 13 to 18). [New York Times Kids and Social Media](https://www.nytimes.com/2022/03/24/well/family/child-social-media-use.html))
+
+
 
    According to the Worldwide Statitistics on Internet usage above, 94% of the over 5 billion people online access the internet for Social Media. 
 
