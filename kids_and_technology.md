@@ -190,39 +190,39 @@ Social Media, even when used correctly, is very dangerous.  It should be treated
 # Introduction to Monitoring Your Childs Devices
 
 1. Monitoring Your Childrens Devices and Online Activity
+    
     Both Apple and Android require your child have a children's account.  
     Brandon, Joel, and I are here to help you do that!
 
 
-    
-    Android and ChromeBooks:
+##    Android and ChromeBooks:
    Family Link (Free):
-    - Set Bedtime. 
-    - Set Daily Limits. 
-    - Enable and Disable Specific Apps. 
-    - Set App Time Limits. 
-    - Can be configured to disable installation of new apps and games.  
-         - This is a great way to prevent your child from installing Social Media apps.  
-         - When they try to install a new app, Family Link will prompt the parents to approve or deny the installation.  
-    - Can block access to specific websites. 
-    - Montior which apps are being used and for how long. 
-    - Monitor which websites are being visited and for how long. 
-    - Device can be locked, remotely, from the parents phone. 
-    - The device will not be able to be unlocked until the parents unlock it. 
-    - Can be found in the [Google Play Store](https://families.google/familylink/)
+   - Set Bedtime. 
+   - Set Daily Limits. 
+   - Enable and Disable Specific Apps. 
+   - Set App Time Limits. 
+   - Can be configured to disable installation of new apps and games.  
+        - This is a great way to prevent your child from installing Social Media apps.  
+        - When they try to install a new app, Family Link will prompt the parents to approve or deny the installation.  
+   - Can block access to specific websites. 
+   - Montior which apps are being used and for how long. 
+   - Monitor which websites are being visited and for how long. 
+   - Device can be locked, remotely, from the parents phone. 
+   - The device will not be able to be unlocked until the parents unlock it. 
+   - Can be found in the [Google Play Store](https://families.google/familylink/)
 
-      [Google Family Link Documentation](https://support.google.com/families/answer/7101025?hl=en)
+   [Google Family Link Documentation](https://support.google.com/families/answer/7101025?hl=en)
       
       
-# Google Family Link QR Code      
+### Google Family Link QR Code      
       
 ![QR Code for Google Family Link](/qr_codes/family_link_qr.png)
 
 
 
- Iphone and MacBooks:
-      Parental Controls (Free): 
-        
+## Iphone and MacBooks:
+   Parental Controls (Free): 
+   
    - Set Bedtime
    - Set Daily Limits
    - Enable and Disable Specific Apps
@@ -238,6 +238,6 @@ Social Media, even when used correctly, is very dangerous.  It should be treated
             
 [Parental Controls Documentation](https://support.apple.com/en-us/HT201304)
 
-
+### Apple Parental Controls QR Code
 
 ![QR Code for Parental Controls](/qr_codes/apple_parental_controls_qr.png)
