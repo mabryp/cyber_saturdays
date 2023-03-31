@@ -76,30 +76,30 @@ Anything where a user can interact with other users is considered social media. 
 
 
         
-##    3. What are the risks of Social Media?  
-      Feelings of helplessness, hopelessness, dispair, and isolation.  
+##    3. What are the risks of Social Media? 
+Feelings of helplessness, hopelessness, dispair, and isolation.  
 
-       Social media does NOT make people feel more connected, it makes people more lonely. 
+ Social media does NOT make people feel more connected, it makes people more lonely.
 
 > "Growing research finds that the more time spent on social media, the more likely a person will experience mental health symptoms like anxiety, isolation, and hopelessness. And according to one recent study, high levels of social media use over the span of four years was associated with increased depression among middle and high school youths." - Columbia University
 
 [Columbia University](https://www.cuimc.columbia.edu/news/social-media-threatening-teens-mental-health-and-well-being)
 
        
-        What, 'exactly', is the problem with Social Media?
-           # It's the "Like", "Share," and "Comments" that makes Social Media so addictive.  It's the dopamine hit that makes you want to keep coming back for more.  Social media does to Human Relationships what Pornagraphy has done to Sex.  
+What, 'exactly', is the problem with Social Media?
+### It's the "Like", "Share," and "Comments" that makes Social Media so addictive.  
+
+It's the dopamine hit that makes you want to keep coming back for more.  Social media does to Human Relationships what Pornagraphy has done to Sex.  
               - It rewards the bad stuff
               - It's fake
               - It's destructive
               - It's not appropriate for children 
 
-        Social Media is causing depression among teen girls:
-          
-          - https://jonathanhaidt.substack.com/p/social-media-mental-illness-epidemic
+[Social Media is causing depression among teen girls](https://jonathanhaidt.substack.com/p/social-media-mental-illness-epidemic)
 
-    d. How can you protect your children from the risks of Social Media?
-       :
-       Go as long as possible without any Social Media.  
+##    4. How can you protect your children from the risks of Social Media?
+   
+   Go as long as possible without any Social Media.  
 
        Once they are on Social Media, limit their time and monitor their activity ( we will talk about HOW to do this in a bit ). 
        Digital Detox!  
