@@ -175,10 +175,21 @@ Social Media, even when used correctly, is very dangerous.  It should be treated
        
    3. Both devies have access to similar software for about $15 per device per year.
        
-      - Bitdefender
-      - Norton
-      - McAfee  
-       
+#     - Bitdefender
+   
+   [BitDefender QR Code](/qr_codes/bitdefender_qr.png)
+
+
+#    - Norton
+
+   [Norton QR Code](/qr_codes/norton_mobile_security_qr.png)
+  
+  
+#   - McAfee  
+
+   [McAfee QR Code](/qr_codes/mcafee_mobile_security_qr.png)
+   
+   
 ---
 
 > Begin Session Three
