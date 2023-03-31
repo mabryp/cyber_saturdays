@@ -40,7 +40,7 @@ It can really suck your life away.
 ---
 
 
-Ready?  Let's begin. 
+>Begin Session One
 
 
 ---
@@ -129,7 +129,11 @@ It's the dopamine hit that makes you want to keep coming back for more.  Social 
 ## Conclusion
 Social Media, even when used correctly, is very dangerous.  It should be treated like alcohol.  It should be very limited and used knowing it can easily hurt us and our kids.  
 
+---
 
+> Begin Session Two
+
+---
 
 
 # Monitoring Your own Devices 
@@ -175,6 +179,13 @@ Social Media, even when used correctly, is very dangerous.  It should be treated
       - Norton
       - McAfee  
        
+---
+
+> Begin Session Three
+
+---
+
+
 
 # Introduction to Monitoring Your Childs Devices
 
